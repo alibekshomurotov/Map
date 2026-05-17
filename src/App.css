@@ -1,0 +1,27 @@
+/* App.css ga qo'shimcha */
+.map-switcher {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  z-index: 2000;
+  display: flex;
+  gap: 10px;
+  background: rgba(0, 0, 0, 0.7);
+  backdrop-filter: blur(10px);
+  padding: 8px;
+  border-radius: 50px;
+}
+
+.map-switcher button {
+  padding: 8px 20px;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: all 0.3s;
+  font-weight: bold;
+}
+
+.map-switcher button.active {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+}
