@@ -1,6 +1,6 @@
 # 🌍 Interactive Geography Map
 
-3D globus ko'rinishidagi interaktiv geografik xarita. Dunyoning istalgan davlatini qidirish, ko'rish va ular haqida ma'lumot olish imkoniyati.
+2D globus ko'rinishidagi interaktiv geografik xarita. Dunyoning istalgan davlatini qidirish, ko'rish va ular haqida ma'lumot olish imkoniyati.
 
 ## ✨ Xususiyatlar
 
